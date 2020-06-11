@@ -1,0 +1,1 @@
+const MOVIE_API_URL = "https://www.omdbapi.com/?s=man&apikey=f573ce5e";
